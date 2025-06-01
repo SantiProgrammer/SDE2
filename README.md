@@ -30,10 +30,17 @@ This repository contains my solutions to the "Top 75 LeetCode Questions" that ar
 ## ⭐ Good Luck!
 Feel free to use these solutions as a reference for your own preparation. Remember to understand the concepts rather than just copying the code!
 
+## 👨‍💻 Author:
 
-## 👨‍💻 Author
-- **santimrdev** - [GitHub Profile](https://github.com/SantiProgrammer)
-- **santimrdev** - [LinkedIn Profile](https://www.linkedin.com/in/santidev/)
-- **santimrdev** - [LeetCode Profile](https://leetcode.com/u/santi-iztli/)
+### Santiago Morera Rodríguez
+
+[![GitHub](https://img.shields.io/badge/GitHub-SantiProgrammer-black?style=for-the-badge&logo=github)](https://github.com/SantiProgrammer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SantiProgrammer-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/santi-iztli/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-SantiProgrammer-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/santi-iztli/)
+
+---
+
+### Greetings from 🇲🇽 CDMX
+🌵 🌮 🌶️ 🥑
 
 
