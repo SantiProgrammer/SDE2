@@ -13,10 +13,23 @@ This repository contains my solutions to the "Top 75 LeetCode Questions" that ar
 
 ## 📚 Problem Categories
 - Array Manipulation
+- Binary
 - Dynamic Programming
 - Graph Algorithms
 - Tree Structures
-- And more...
+- String Manipulation
+- Linked Lists
+- Hash Tables
+- Sorting
+- Searching
+- Backtracking
+- Greedy Algorithms
+- Bit Manipulation
+- Math
+- Design
+- Database
+- Shell
+- Concurrency
 
 ## 💡 How to Use
 1. Each problem is organized in its own directory
