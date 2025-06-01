@@ -26,3 +26,11 @@ var coinChange = function(coins, amount) {
     // Return result: if dp[amount] is still amount + 1, it's impossible
     return dp[amount] > amount ? -1 : dp[amount];
 };
+
+
+console.log(coinChange([1,2,5], 11))
+console.log(coinChange([2], 3))
+console.log(coinChange([1], 0))
+console.log(coinChange([1], 1))
+console.log(coinChange([1], 2))
+
